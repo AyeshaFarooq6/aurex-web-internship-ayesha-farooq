@@ -1,9 +1,9 @@
 # AUREX Web Internship - Week 1
 
-   Intern Details
-    Name: Ayesha Farooq
-    Domain: Full-Stack Web Development
-    Week Number: Week 1
+   Intern Details<br>
+    Name:  Ayesha Farooq <br>
+    Domain:  Full-Stack Web Development<br>
+    Week Number: Week 1<br>
 
 ### Task Description
 This repository contains the deliverables for Week 1 of the AUREX Full-Stack Engineering Internship.
@@ -24,7 +24,7 @@ any CSS.
 2. Open the `index.html` file in any modern web browser to view the structured webpage.
 
 ### Key Learnings
-- Learned the importance of semantic HTML tags (<header>, <nav>, <main>, <section>, <footer>)
+- Learned the importance of semantic HTML tags.
 - for web accessibility and structure.
 - Understood how version control and repositories work on GitHub.
 - Mastered updating and committing code files directly from the browser-based environment.
